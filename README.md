@@ -19,8 +19,7 @@ This project simulates the logic behind **HEDIS (Healthcare Effectiveness Data a
 
 | Measure Code | Name                          | Status     |
 |--------------|-------------------------------|------------|
-| BCS          | Breast Cancer Screening        | ✅ Complete |
-| COL          | Colorectal Cancer Screening    | 🚧 In Progress |
+| BCS          | Breast Cancer Screening        | 🚧 Planned  |
+| COL          | Colorectal Cancer Screening    | 🚧 Planned  |
 | CDC          | Comprehensive Diabetes Care    | 🚧 Planned  |
 
-## 📁 Project Structure
