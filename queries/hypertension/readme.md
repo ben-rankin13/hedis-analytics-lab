@@ -3,7 +3,7 @@
 ## Query: Hypertension Compliance by Insurance Provider
 
 ### Overview
-This SQL query calculates the **Controlling High Blood Pressure (CBP)** HEDIS measure for hypertensive patients using 2019 clinical data. It identifies the most recent blood pressure reading for each patient and determines whether they are in compliance with the HEDIS target: systolic < 140 mmHg and diastolic < 90 mmHg.
+This SQL query calculates the **Controlling High Blood Pressure (CBP)** HEDIS measure for hypertension patients using 2019 clinical data. It identifies the most recent blood pressure reading for each patient and determines whether they are in compliance with the HEDIS target: systolic < 140 mmHg and diastolic < 90 mmHg.
 
 ### Key Features
 - Identifies patients diagnosed with **hypertension** in 2019
