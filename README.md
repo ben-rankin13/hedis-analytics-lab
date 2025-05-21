@@ -3,11 +3,12 @@ This project simulates the logic behind **HEDIS (Healthcare Effectiveness Data a
 
 ## 🔍 What You'll Find Here
 
-- SQL logic for calculating HEDIS quality measures (starting with Breast Cancer Screening)
+- SQL logic for calculating HEDIS quality measures (starting with Controlling High Blood Pressure)
 - Synthetic patient datasets based on realistic schemas
 - Detailed documentation aligned with NCQA technical specs
 - Optional dashboards (Power BI, Tableau, or Python) for reporting results
 - Scalable repo structure for additional measures
+- Most recent data in this dataset if for Apr 2020, therefore all measures will be referencing the year 2019
 
 ## 💡 Goals
 
@@ -19,6 +20,7 @@ This project simulates the logic behind **HEDIS (Healthcare Effectiveness Data a
 
 | Measure Code | Name                          | Status     |
 |--------------|-------------------------------|------------|
+| BCS          | Controlling High Blood Pressure| 🚧 WIP CBP  |
 | BCS          | Breast Cancer Screening        | 🚧 Planned  |
 | COL          | Colorectal Cancer Screening    | 🚧 Planned  |
 | CDC          | Comprehensive Diabetes Care    | 🚧 Planned  |
